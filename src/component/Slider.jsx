@@ -4,7 +4,7 @@ import Carousel from 'react-bootstrap/Carousel';
 const Slider = () => {
   return (
     <div>
-        <Carousel>
+    <Carousel fade>
       <Carousel.Item>
         <img
           className="d-block w-100"
@@ -20,7 +20,7 @@ const Slider = () => {
         <img
           className="d-block w-100"
           src="https://www.footgear.co.za/wp-content/uploads/2023/05/FG-GET-BOOTED-Home-Page-Banner.png"
-          alt=""
+          alt="Second slide"
         />
 
         <Carousel.Caption>
