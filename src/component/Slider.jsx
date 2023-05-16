@@ -8,7 +8,7 @@ const Slider = () => {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://www.footgear.co.za/wp-content/uploads/2023/05/Spoil-Mom-Web-banner-scaled.jpg"
+          src="https://www.footgear.co.za/wp-content/uploads/2023/04/Merrell-webslider-01-1-scaled.jpg"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -43,6 +43,10 @@ const Slider = () => {
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
+
+    <div>
+      <div className='line'>It started with a simple idea: Create quality, well-designed products that I wanted myself.</div>
+    </div>
     </div>
   )
 }
