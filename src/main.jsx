@@ -7,20 +7,18 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
-import NavHeader  from './component/NavHeader.jsx';
+import HomePage from './pages/HomePage.jsx'
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <NavHeader/>,
+    element: <HomePage/>,
   },
 ]);
 
-
-
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <App />
+    {/* <App /> */}
     <RouterProvider router={router} />
   </React.StrictMode>,
 )
