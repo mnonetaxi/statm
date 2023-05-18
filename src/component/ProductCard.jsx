@@ -11,14 +11,14 @@ function ProductCard() {
         <Card style={{ width: "40rem" }}>
           <Card.Img
             variant="top"
-            src="https://www.footgear.co.za/wp-content/uploads/2023/04/Promo-Image-1.jpg"
+            src="https://i.pinimg.com/564x/f5/6b/5b/f56b5b7e02608bc1746853367e096302.jpg"
           />
         </Card>
 
         <Card style={{ width: "40rem" }}>
           <Card.Img
             variant="top"
-            src="https://www.footgear.co.za/wp-content/uploads/2021/08/Promo-Image-1.png"
+            src="https://i.pinimg.com/564x/e4/9a/88/e49a88c196159a95baf187f30e49b59f.jpg"
           />
         </Card>
       </div>
