@@ -7,11 +7,22 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import HomePage from './pages/HomePage.jsx'
+import BrowseAll from './pages/BrowseAll';
+import BrowseBrands from './pages/BrowseBrands'
+
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <HomePage/>,
+  },
+  {
+    path: "/browseAll",
+    element: <BrowseAll/>,
+  },
+  {
+    path: "/browseBrands",
+    element: <BrowseBrands/>,
   },
 ]);
 

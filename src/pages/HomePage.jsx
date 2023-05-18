@@ -1,8 +1,8 @@
-import Slider from '../component/Slider'
-import NavHeader from '../component/NavHeader'
-import ProductCard from '../component/ProductCard'
-import Video from '../component/Video'
-import Footer from '../component/Footer'
+import Slider from '../components/Slider'
+import NavHeader from '../components/NavHeader'
+import ProductCard from '../components/ProductCard'
+import Video from '../components/Video'
+import Footer from '../components/Footer'
 
 const HomePage = () => {
   return (
