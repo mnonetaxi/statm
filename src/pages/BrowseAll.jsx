@@ -89,6 +89,162 @@ const BrowseAll = () => {
               </Card.Body>
             </Card>
           </Col>
+          <Col className=".col-md-">
+            <Card style={{ width: "20rem" }}>
+              <Card.Img
+                variant="top"
+                src="https://i.pinimg.com/564x/a8/e3/38/a8e338740d0e0298cbabb5ed4664deb9.jpg"
+              />
+              <Card.Body>
+                <Card.Title>Custom Air Force 1 Blue</Card.Title>
+                <Card.Text>R 1,000</Card.Text>
+                <Button variant="primary">NEW IN</Button>
+              </Card.Body>
+            </Card>
+          </Col>
+          <Col className=".col-md-">
+            <Card style={{ width: "20rem" }}>
+              <Card.Img
+                variant="top"
+                src="https://i.pinimg.com/564x/5c/cf/52/5ccf5239af32bc4fb99c6d45d0b9f6b4.jpg"
+              />
+              <Card.Body>
+                <Card.Title>Custom Air Force 1 Akatsuki Clouds</Card.Title>
+                <Card.Text>R 2,000</Card.Text>
+                <Button variant="primary">NEW IN</Button>
+              </Card.Body>
+            </Card>
+          </Col>
+          <Col className=".col-md-">
+            <Card style={{ width: "20rem" }}>
+              <Card.Img
+                variant="top"
+                src="https://i.pinimg.com/564x/38/45/f5/3845f5b5f19d565ebe3dc74f9ffd4cc3.jpg"
+              />
+              <Card.Body>
+                <Card.Title>Custom Air Force 1 Spiderman Captain America</Card.Title>
+                <Card.Text>R 2,550</Card.Text>
+                <Button variant="primary">NEW IN</Button>
+              </Card.Body>
+            </Card>
+          </Col>
+          <Col className=".col-md-">
+            <Card style={{ width: "20rem" }}>
+              <Card.Img
+                variant="top"
+                src="https://i.pinimg.com/564x/d8/58/dc/d858dc70320c33ccbe71112bf4def225.jpg"
+              />
+              <Card.Body>
+                <Card.Title>Disruptor 2 Brights</Card.Title>
+                <Card.Text>R 650,00</Card.Text>
+                <Button variant="primary">NEW IN</Button>
+              </Card.Body>
+            </Card>
+          </Col>
+          <Col className=".col-md-">
+            <Card style={{ width: "20rem" }}>
+              <Card.Img
+                variant="top"
+                src="https://i.pinimg.com/564x/db/63/23/db6323843711bcce924dedd3a4a96253.jpg"
+              />
+              <Card.Body>
+                <Card.Title>Disruptor</Card.Title>
+                <Card.Text>R 800,00</Card.Text>
+                <Button variant="primary">NEW IN</Button>
+              </Card.Body>
+            </Card>
+          </Col>
+          <Col className=".col-md-">
+            <Card style={{ width: "20rem" }}>
+              <Card.Img
+                variant="top"
+                src="https://i.pinimg.com/564x/75/72/89/7572897c55d04fdf898fcd1d660f9f91.jpg"
+              />
+              <Card.Body>
+                <Card.Title>Disruptor 2 Brights Fade shoe</Card.Title>
+                <Card.Text>R 550,00</Card.Text>
+                <Button variant="primary">NEW IN</Button>
+              </Card.Body>
+            </Card>
+          </Col>
+          <Col className=".col-md-">
+            <Card style={{ width: "20rem" }}>
+              <Card.Img
+                variant="top"
+                src="https://i.pinimg.com/564x/af/8a/b5/af8ab5506681454ce7c9b40658c7b6cd.jpg"
+              />
+              <Card.Body>
+                <Card.Title>Heel Boot fleece/without fleece</Card.Title>
+                <Card.Text>R 250,00</Card.Text>
+                <Button variant="primary">NEW IN</Button>
+              </Card.Body>
+            </Card>
+          </Col>
+          <Col className=".col-md-">
+            <Card style={{ width: "20rem" }}>
+              <Card.Img
+                variant="top"
+                src="https://i.pinimg.com/564x/81/eb/e4/81ebe486de9d4b1ac2cb6df5d9bbebae.jpg"
+              />
+              <Card.Body>
+                <Card.Title>High platform Lace Up Midde Chunky Heel Short Matin Boots</Card.Title>
+                <Card.Text>R 550,00</Card.Text>
+                <Button variant="primary">NEW IN</Button>
+              </Card.Body>
+            </Card>
+          </Col>
+          <Col className=".col-md-">
+            <Card style={{ width: "20rem" }}>
+              <Card.Img
+                variant="top"
+                src="https://i.pinimg.com/564x/69/b9/3f/69b93fed4968dab441e816eaa4d789d7.jpg"
+              />
+              <Card.Body>
+                <Card.Title>Women Upper Material Of Shoes</Card.Title>
+                <Card.Text>R 450,00</Card.Text>
+                <Button variant="primary">NEW IN</Button>
+              </Card.Body>
+            </Card>
+          </Col>
+          <Col className=".col-md-">
+            <Card style={{ width: "20rem" }}>
+              <Card.Img
+                variant="top"
+                src="https://i.pinimg.com/564x/09/a0/f7/09a0f70fcba536c758e2b50424cfed1f.jpg"
+              />
+              <Card.Body>
+                <Card.Title>Burgundy</Card.Title>
+                <Card.Text>R 2,000</Card.Text>
+                <Button variant="primary">NEW IN</Button>
+              </Card.Body>
+            </Card>
+          </Col>
+          <Col className=".col-md-">
+            <Card style={{ width: "20rem" }}>
+              <Card.Img
+                variant="top"
+                src="https://i.pinimg.com/564x/30/44/49/304449b0095608a116b0a3ca75f1ce2d.jpg"
+              />
+              <Card.Body>
+                <Card.Title>The Savannah Loafer in Brown Leather with Woven Upper </Card.Title>
+                <Card.Text>R 2,500</Card.Text>
+                <Button variant="primary">NEW IN</Button>
+              </Card.Body>
+            </Card>
+          </Col>
+          <Col className=".col-md-">
+            <Card style={{ width: "20rem" }}>
+              <Card.Img
+                variant="top"
+                src="https://i.pinimg.com/564x/2d/47/ca/2d47cacafa681618cc28ad995294880a.jpg"
+              />
+              <Card.Body>
+                <Card.Title>Mens Sneakers To Wear With Jeans</Card.Title>
+                <Card.Text>R 3,500</Card.Text>
+                <Button variant="primary">NEW IN</Button>
+              </Card.Body>
+            </Card>
+          </Col>
         </Row>
       </Container>
     </div>
