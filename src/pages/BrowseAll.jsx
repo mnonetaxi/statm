@@ -54,11 +54,11 @@ const BrowseAll = () => {
             <Card style={{ width: "20rem" }}>
               <Card.Img
                 variant="top"
-                src="https://i.pinimg.com/564x/30/57/98/3057981db0bacf7785858670ebe3cd98.jpg"
+                src="https://i.pinimg.com/564x/75/91/98/7591981be205ff59baae4c0314e0865e.jpg"
               />
               <Card.Body>
-                <Card.Title>Stussy x Timberland 6 Inch Boot</Card.Title>
-                <Card.Text>R 2,500</Card.Text>
+                <Card.Title>https://i.pinimg.com/564x/75/91/98/7591981be205ff59baae4c0314e0865e.jpg</Card.Title>
+                <Card.Text>R 1,500</Card.Text>
                 <Button variant="primary">NEW IN</Button>
               </Card.Body>
             </Card>
@@ -67,11 +67,11 @@ const BrowseAll = () => {
             <Card style={{ width: "20rem" }}>
               <Card.Img
                 variant="top"
-                src="https://i.pinimg.com/564x/13/6a/73/136a73bf95bdc498b3a436479b97ebb1.jpg"
+                src="https://i.pinimg.com/564x/9e/7b/f7/9e7bf77c24a544539a50c7b1149049fa.jpg"
               />
               <Card.Body>
-                <Card.Title>Boots Timberland</Card.Title>
-                <Card.Text>R 2,550</Card.Text>
+                <Card.Title>Reebok Classic Leather Legacy</Card.Title>
+                <Card.Text>R 2,000</Card.Text>
                 <Button variant="primary">NEW IN</Button>
               </Card.Body>
             </Card>
@@ -80,11 +80,11 @@ const BrowseAll = () => {
             <Card style={{ width: "20rem" }}>
               <Card.Img
                 variant="top"
-                src="https://i.pinimg.com/564x/3c/a7/8f/3ca78fb71b20bf8c57bbabdd9be97b81.jpg"
+                src="https://i.pinimg.com/564x/d0/9d/2d/d09d2de3e61c761c944b0b6e679aad85.jpg"
               />
               <Card.Body>
-                <Card.Title>Boots Timberland</Card.Title>
-                <Card.Text>R 2,550</Card.Text>
+                <Card.Title>Livelickz</Card.Title>
+                <Card.Text>R 3,500</Card.Text>
                 <Button variant="primary">NEW IN</Button>
               </Card.Body>
             </Card>
