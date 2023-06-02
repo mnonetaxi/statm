@@ -132,11 +132,11 @@ const BrowseAll = () => {
             <Card style={{ width: "20rem" }}>
               <Card.Img
                 variant="top"
-                src="https://i.pinimg.com/564x/d8/58/dc/d858dc70320c33ccbe71112bf4def225.jpg"
+                src="https://i.pinimg.com/564x/5f/2c/03/5f2c0395d4db6b8169f882e5a9023431.jpg"
               />
               <Card.Body>
-                <Card.Title>Disruptor 2 Brights</Card.Title>
-                <Card.Text>R 650,00</Card.Text>
+                <Card.Title>Hucdml Men Boots Black</Card.Title>
+                <Card.Text>R 750,00</Card.Text>
                 <Button variant="primary">NEW IN</Button>
               </Card.Body>
             </Card>
@@ -145,10 +145,10 @@ const BrowseAll = () => {
             <Card style={{ width: "20rem" }}>
               <Card.Img
                 variant="top"
-                src="https://i.pinimg.com/564x/db/63/23/db6323843711bcce924dedd3a4a96253.jpg"
+                src="https://i.pinimg.com/564x/f4/40/f1/f440f10d6b5d0b7ef02631eaf319a5c2.jpg"
               />
               <Card.Body>
-                <Card.Title>Disruptor</Card.Title>
+                <Card.Title>Timberland PRO Men 8 Boondock</Card.Title>
                 <Card.Text>R 800,00</Card.Text>
                 <Button variant="primary">NEW IN</Button>
               </Card.Body>
@@ -158,10 +158,10 @@ const BrowseAll = () => {
             <Card style={{ width: "20rem" }}>
               <Card.Img
                 variant="top"
-                src="https://i.pinimg.com/564x/75/72/89/7572897c55d04fdf898fcd1d660f9f91.jpg"
+                src="https://i.pinimg.com/564x/52/d2/2f/52d22f7274fb80c2eea05039dddaa73b.jpg"
               />
               <Card.Body>
-                <Card.Title>Disruptor 2 Brights Fade shoe</Card.Title>
+                <Card.Title>MicrodeerGende platform Non- Slip Hiking Shoes Men</Card.Title>
                 <Card.Text>R 550,00</Card.Text>
                 <Button variant="primary">NEW IN</Button>
               </Card.Body>

@@ -9,6 +9,10 @@ import {
 import HomePage from './pages/HomePage.jsx'
 import BrowseAll from './pages/BrowseAll';
 import BrowseBrands from './pages/BrowseBrands'
+import AboutPage from './pages/AboutPage';
+import ManPage from './pages/ManPage';
+import WomenPage from './pages/WomenPage';
+import ContactPage from './pages/ContactPage';
 
 
 const router = createBrowserRouter([
@@ -23,6 +27,22 @@ const router = createBrowserRouter([
   {
     path: "/browseBrands",
     element: <BrowseBrands/>,
+  },
+  {
+    path: "/about",
+    element: <AboutPage/>,
+  },
+  {
+    path: "/men",
+    element: <ManPage/>,
+  },
+  {
+    path: "/women",
+    element: <WomenPage/>,
+  },
+  {
+    path: "/contact",
+    element: <ContactPage/>,
   },
 ]);
 

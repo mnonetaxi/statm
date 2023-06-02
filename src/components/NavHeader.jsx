@@ -4,6 +4,7 @@ import Form from "react-bootstrap/Form";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import NavDropdown from "react-bootstrap/NavDropdown";
+import { Link } from "react-router-dom";
 
 function NavHeader() {
   return (
@@ -17,11 +18,11 @@ function NavHeader() {
             style={{ maxHeight: "100px" }}
             navbarScroll
           >
-            <Nav.Link href="#action1">Home</Nav.Link>
-            <Nav.Link href="#action2">Men</Nav.Link>
-            <Nav.Link href="#action2">Women</Nav.Link>
-            <Nav.Link href="#action2">About</Nav.Link>
-            <Nav.Link href="#action2">Contact</Nav.Link>
+            <Nav.Link href="/">Home</Nav.Link>
+            <Nav.Link href="men">Men</Nav.Link>
+            <Nav.Link href="women">Women</Nav.Link>
+            <Nav.Link href="about">About</Nav.Link>
+            <Nav.Link href="contact">Contact</Nav.Link>
             <NavDropdown title="Link" id="navbarScrollingDropdown">
               <NavDropdown.Item href="#action3">Action</NavDropdown.Item>
               <NavDropdown.Item href="#action4">
@@ -32,9 +33,6 @@ function NavHeader() {
                 Something else here
               </NavDropdown.Item>
             </NavDropdown>
-            <Nav.Link href="#" disabled>
-              Link
-            </Nav.Link>
           </Nav>
           <svg
             xmlns="http://www.w3.org/2000/svg"
